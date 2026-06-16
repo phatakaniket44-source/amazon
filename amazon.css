@@ -1,0 +1,170 @@
+selector{
+    property: value;
+}
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.navbar
+{
+    background-color: black;
+    gap: 25px;
+    color: white;
+    
+}
+.searchbar
+{
+    background-color: #D4D4D4;
+    height: 45px;
+    width: 750px;
+    display: flex;
+}
+
+.searchfield{
+    height:45px;
+    width: 660px;
+    font-size:larger ;
+}
+.selector{
+    height: 45px;
+    width: 50px;
+}
+.searchicon{
+    background-color: #F3A847;
+    width: 40px;
+
+}
+.navbar1
+    {
+        background:#232F3E;
+        height: 45px;
+        padding:12px 18px;
+        white-space:nowrap;
+        display:flex;
+        align-items:center;
+        gap:30px;
+    }
+    .item
+    {
+        color:white;
+        padding:6px 8px;
+         font-size:20px;
+    }
+.cardsection
+{
+    display: flex;
+    gap:50px;
+    padding-left: 50px;
+}
+.bike
+{
+    border: 2px solid black;
+}
+.footer{
+    background:#232f3e;
+    color:white;
+}
+
+.back-top{
+    background:#37475a;
+    text-align:center;
+    padding:15px;
+}
+
+.back-top a{
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.footer-links{
+    display:flex;
+    justify-content:space-around;
+    padding:50px 80px;
+    flex-wrap:wrap;
+}
+
+.footer-column h3{
+    margin-bottom:15px;
+}
+
+.footer-column a{
+    display:block;
+    color:#ddd;
+    text-decoration:none;
+    margin:10px 0;
+}
+
+.footer-column a:hover{
+    text-decoration:underline;
+}
+
+.footer-middle{
+    border-top:1px solid #3a4553;
+    text-align:center;
+    padding:30px;
+}
+
+.footer-middle img{
+    width:100px;
+    margin-bottom:15px;
+}
+
+.options{
+    display:flex;
+    justify-content:center;
+    gap:15px;
+}
+
+.options button{
+    padding:10px 20px;
+    background:transparent;
+    color:white;
+    border:1px solid #777;
+    cursor:pointer;
+}
+
+.footer-bottom{
+    background:#131a22;
+    padding:30px;
+}
+
+.bottom-links{
+    display:flex;
+    justify-content:center;
+    gap:70px;
+    flex-wrap:wrap;
+}
+
+.bottom-links div{
+    color:#ddd;
+}
+
+.bottom-links h4{
+    color:white;
+    margin-bottom:5px;
+}
+ .navbar
+        {
+            background-color: #131921;
+            display: flex;
+            height: 90px;
+            align-items: center;
+            width:auto;
+          
+
+
+        }
+        .logo1
+        {
+            height: 80px;
+            width:90px;
+        }
+        .sell1
+        {
+            margin-top: 40px;
+            padding-left: 50px;
+            align-items: center;
+        }
